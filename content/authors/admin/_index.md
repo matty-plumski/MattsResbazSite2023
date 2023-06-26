@@ -4,7 +4,7 @@ title: Matt Plummer
 
 # Full name (for SEO)
 first_name: Matt
-last_name: WPlummer
+last_name: Plummer
 
 # Status emoji
 status:
@@ -18,8 +18,8 @@ role: Senior Research Partner
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Victoria University of Wellington
+    url: https://www.wgtn.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
