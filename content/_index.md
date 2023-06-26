@@ -30,15 +30,15 @@ sections:
   #       <div class="mb-3"></div>
   #       <!--GitHub Button JS-->
   #       <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+  #   design:
+  #     background:
+  #       gradient_end: '#1976d2'
+  #       gradient_start: '#004ba0'
+  #       text_color_light: true
   - block: about.biography
     id: about
     content:
-      title: About
+      title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
